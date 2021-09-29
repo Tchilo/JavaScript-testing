@@ -1,6 +1,6 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# JavaScript Testing
 
 > One paragraph statement about the project.
 
@@ -13,10 +13,6 @@ Additional description about the project and its features.
 - Major languages
 - Frameworks
 - Technologies used
-
-## Live Demo
-
-[Live Demo Link](https://livedemo.com)
 
 
 ## Getting Started
