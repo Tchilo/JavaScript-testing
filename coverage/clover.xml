@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1632906340472" clover="3.2.0">
-  <project timestamp="1632906340473" name="All files">
-    <metrics statements="8" coveredstatements="8" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="4" elements="12" coveredelements="12" complexity="0" loc="8" ncloc="8" packages="1" files="4" classes="4"/>
+<coverage generated="1632908707213" clover="3.2.0">
+  <project timestamp="1632908707214" name="All files">
+    <metrics statements="15" coveredstatements="14" conditionals="4" coveredconditionals="2" methods="6" coveredmethods="6" elements="25" coveredelements="22" complexity="0" loc="15" ncloc="15" packages="1" files="6" classes="6"/>
+    <file name="capital.js" path="/home/ross/Desktop/JavaScript-testing/js/capital.js">
+      <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="2" count="1" type="stmt"/>
+    </file>
     <file name="divid.js" path="/home/ross/Desktop/JavaScript-testing/js/divid.js">
       <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
       <line num="1" count="1" type="stmt"/>
@@ -11,6 +16,14 @@
       <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
       <line num="1" count="1" type="stmt"/>
       <line num="3" count="1" type="stmt"/>
+    </file>
+    <file name="string.js" path="/home/ross/Desktop/JavaScript-testing/js/string.js">
+      <metrics statements="5" coveredstatements="4" conditionals="4" coveredconditionals="2" methods="1" coveredmethods="1"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="2" count="1" type="cond" truecount="2" falsecount="2"/>
+      <line num="3" count="1" type="stmt"/>
+      <line num="5" count="0" type="stmt"/>
+      <line num="9" count="1" type="stmt"/>
     </file>
     <file name="subtract.js" path="/home/ross/Desktop/JavaScript-testing/js/subtract.js">
       <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
